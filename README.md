@@ -1,2 +1,0 @@
-# functionalcalculator
-Functional calculator
